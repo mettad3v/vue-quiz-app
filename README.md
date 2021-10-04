@@ -1,4 +1,4 @@
-# vue-skills
+# vue-quiz
 
 ## Project setup
 ```
